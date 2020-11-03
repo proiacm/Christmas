@@ -3,10 +3,10 @@
 Who doesn't love Christmas? or countdowns? Here's both! 
 
 ## Tech Stack
-React.js
-JavaScript
-CSS
-HTML
+- React.js
+- JavaScript
+- CSS
+- HTML
 
 ## License
 Copyright 2020 proiacm
