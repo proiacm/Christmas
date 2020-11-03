@@ -1,6 +1,6 @@
 # Christmas Countdown 2020
 ## About
-Who doesn't love Christmas? or countdowns? Here's both! 
+Who doesn't love Christmas :christmas_tree: ? or countdowns :clock12: ? Here's both! 
 
 ## Tech Stack
 - React.js
