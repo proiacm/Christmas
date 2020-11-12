@@ -1,14 +1,16 @@
 .App-header {
-  background-color: #cbb080;
+  background-color: #6a2225;
+  background-image: linear-gradient(#fbf6e8 0%,  #6a2225 95%);
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
 }
 
 .text {
-  color: #864a40;
+  color: #2b271e;
   text-align: center;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 600%;
 }
