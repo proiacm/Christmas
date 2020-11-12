@@ -12,7 +12,7 @@ class App extends Component {
     const year = currentDate.getFullYear();
     return (
       <div className="App-header">
-        <Snowfall color='#fbf6e8'/>
+        <Snowfall color='#FFFFFF'/>
         <div className="text">
         <Countdown date={`${year}-12-25T00:00:00`} />
         until Christmas!</div>
