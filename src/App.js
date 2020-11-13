@@ -4,6 +4,7 @@ import Countdown from './Countdown/Countdown';
 import Snowfall from 'react-snowfall';
 import LottieAnimation from './Lottie';
 import home from './Animation/xmas.json';
+import Footer from './Footer/Footer';
 
 class App extends Component {
 
@@ -17,7 +18,9 @@ class App extends Component {
         <Countdown date={`${year}-12-25T00:00:00`} />
         until Christmas!</div>
         <LottieAnimation lotti={home} height={200} width={300} />
+        <Footer />
       </div>
+     
     );
   }
 }
