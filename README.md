@@ -2,6 +2,8 @@
 ## About
 Who doesn't love Christmas :christmas_tree: ? or countdowns :clock12: ? Here's both! 
 
+[View the count down!](https://proiacm.github.io/Christmas/)
+
 ## Tech Stack
 - React.js
 - JavaScript
