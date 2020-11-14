@@ -1,4 +1,4 @@
-.App-header {
+.App {
   background-color: #6a2225;
   background-image: linear-gradient(#FFFFFF 10%,  #6a2225 95%);
   min-height: 100vh;
@@ -11,5 +11,7 @@
   color: #2b271e;
   text-align: center;
   font-family: 'Bigelow Rules', cursive;
-  font-size: 600%;
+  font-size: 10vw;
 }
+
+
