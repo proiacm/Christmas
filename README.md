@@ -1,3 +1,4 @@
+[View the countdown live!](https://proiacm.github.io/Christmas/)
 <!-- PROJECT SHIELDS -->
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -23,7 +24,7 @@
 
 Who doesn't love Christmas :christmas_tree: ? or countdowns :clock12: ? Here's both! 
 
-[View the countdown!](https://proiacm.github.io/Christmas/)
+[View the countdown live!](https://proiacm.github.io/Christmas/)
 
 ### Built With
 * [React](https://react.org)
