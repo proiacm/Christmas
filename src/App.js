@@ -13,12 +13,13 @@ class App extends Component {
     const year = currentDate.getFullYear();
     return (
       <div className='App'>
+        <Snowfall color='#FFFFFF'/>
         <div className="App-header">
-          <Snowfall color='#FFFFFF'/>
+        {/* <LottieAnimation lotti={home} height={200} width={500} /> */}
           <div className="text">
           <Countdown date={`${year}-12-25T00:00:00`} />
           until Christmas!</div>
-          <LottieAnimation lotti={home} height={200} width={300} />
+          
         </div>
         <Footer />
       </div>
