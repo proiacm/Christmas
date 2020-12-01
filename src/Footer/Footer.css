@@ -1,11 +1,11 @@
 .footer{
     text-align: center;
-    font-family: 'Playfair Display', serif;
     position: fixed;
     bottom: 0;
     right:25%;
     left:50%;
     margin-left:-300px;
+    font-size: 12px;
   }
 
   @media only screen and (max-width: 600px){
@@ -15,18 +15,18 @@
   }
 
   a:link {
-    color: #1d1b14;
+    color: #090D09;
     text-decoration: none;
   }
 
   a:visited {
-    color: #1d1b14;
+    color: #090D09;
   }
 
   a:hover {
-    color: #FFFFFF;
+    color: #090D09;
   }
 
   a:active {
-      color: #1d1b14 ;
+      color: #090D09 ;
   }
