@@ -14,12 +14,11 @@ class App extends Component {
     return (
       <div className='App'>
         <Snowfall color='#FFFFFF'/>
-        <div className="App-header">
-        {/* <LottieAnimation lotti={home} height={200} width={500} /> */}
-          <div className="text">
+        <div className="text">
           <Countdown date={`${year}-12-25T00:00:00`} />
           until Christmas!</div>
-          
+        <div className="App-header">
+        <LottieAnimation lotti={home} height={200} width={500} />
         </div>
         <Footer />
       </div>

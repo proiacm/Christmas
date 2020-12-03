@@ -10,23 +10,23 @@
 
   @media only screen and (max-width: 600px){
     .footer {
-      margin-left:-100px;
+      display: none;
     }
   }
 
   a:link {
-    color: #090D09;
+    color: #252525;
     text-decoration: none;
   }
 
   a:visited {
-    color: #090D09;
+    color: #252525;
   }
 
   a:hover {
-    color: #090D09;
+    color: #252525;
   }
 
   a:active {
-      color: #090D09 ;
+      color: #252525 ;
   }

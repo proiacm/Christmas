@@ -103,7 +103,7 @@ class Countdown extends Component {
         <span className="Countdown-col">
           <span className="Countdown-col-element">
             <strong>{this.addLeadingZeros(countDown.sec)}</strong>
-            <span>S</span>
+            <span>Sec</span>
           </span>
         </span>
       </div>
