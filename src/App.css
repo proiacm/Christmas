@@ -4,26 +4,14 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #1D2A38;
 }
 
 .text {
   text-align: center;
   font-family: 'Cinzel', serif;
   font-size: 6vw;
-  color: #252525;
-  /* background-image: url(https://media.giphy.com/media/LrMNKXTTmTIMixEGfb/giphy.gif);
-  background-size: cover;
-  color: transparent;
-  -moz-background-clip: text;
-  -webkit-background-clip: text; */
-  /* -webkit-text-stroke: 0.3px #ffffff; */
-}
-
-.App-header {
- 
-  /* background-image: url("Image/berries.jpg");
-  background-size: cover; */
-  background-color: #a11715;
+  color: #F7F4F2;
 }
 
 @media only screen and (max-width: 600px){
@@ -33,8 +21,7 @@
   }
 
   .text {
-    text-align: left;
-    font-size: 5vw;
+    font-size: 6vw;
   }
 
   .App-header {
